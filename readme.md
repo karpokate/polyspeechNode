@@ -19,8 +19,8 @@ This is social network (smth like facebook) with a modern and user-friendly desi
 
 | Functions                   | Description                                         |
 | --------------------------- | --------------------------------------------------- |
-| Auth                        | - [ ] Sign in (with facebook & google)              |
-|                             | - [ ] Sign up (with facebook & google)              |
+| Auth                        | - [ ] Sign in + (with facebook & google)              |
+|                             | - [ ] Sign up + (with facebook & google)              |
 | Verification                | - [ ] with phone number                             |
 |                             | - [ ] with e-mail                                   |
 | Messanger                   | - [ ] simple chat with one person                   |
