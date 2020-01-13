@@ -4,7 +4,7 @@ In this .md files you can find description of project architecture.
 
 # High-level architecture
 
-[image]
+![H-L](https://user-images.githubusercontent.com/38297806/72292292-c434b800-3659-11ea-9efb-0a651762bc4f.jpg)
 
 Project structure:
 
@@ -14,8 +14,8 @@ Project structure:
 
 ## Tech stack in architecture view
 
-[image]
+![Tech](https://user-images.githubusercontent.com/38297806/72292363-eb8b8500-3659-11ea-8f54-db911031195d.jpg)
 
 ## Layer abstraction in project
 
-[image]
+![Layer](https://user-images.githubusercontent.com/38297806/72292341-df9fc300-3659-11ea-92f6-b9091d454f33.jpg)
