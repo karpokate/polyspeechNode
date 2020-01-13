@@ -12,6 +12,7 @@ this app is smth like Udemy. This is a place where you can find bootcamps and co
 ## Main project parts
 
 db image: https://dbdiagram.io/d/5e1cc69794d9ab14375a2eae
+<img width="1237" alt="DB" src="https://user-images.githubusercontent.com/38297806/72292230-a2d3cc00-3659-11ea-9f89-5d53b6231748.png">
 
 ### Auth and log in:
 
